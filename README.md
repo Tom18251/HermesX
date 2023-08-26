@@ -4,3 +4,4 @@ for launch the bot you need
 1. invite the bot
 2. put server id
 3. put you bot token
+4. launch start.bat
